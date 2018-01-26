@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### **Test Screenshot**
 
-![screenshot1](/images/testing123.png)
+![screenshot1](/Images/testing123.png)
 
 ### Jekyll Themes
 
