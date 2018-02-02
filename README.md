@@ -45,7 +45,7 @@ Recording was slightly awkward—I had to click not only the top Record button, 
 
 Another bounce, and the song was finished.  Here is the result.
 
-[Get Dancing+](Audio/“Get Dancing”KGB+.mp3)
+[Get Dancing+](Audio/“GetDancing”KGB+.mp3)
 
 
 
