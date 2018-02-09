@@ -31,13 +31,13 @@ After adjusting these aspects, we began working with Plug-Ins.  This is the Plug
 
 We also added a plug-in to the piano track.
 
-With all of this. The essentials of the project were complete.  Now it was time to bounce.
+With all of this, the essentials of the project were complete.  Now it was time to bounce.
 
 As a GarageBand user (who is generally bad at technology), I was unfamiliar with the term “bounce.”  However, I found that it is generally like exporting a project to mp3.  This is what the Bounce menu looks like.
 
 ![8](Images/8bounce.png)
 
-Thus, the project was complete, but the song wasn’t particularly original.  I decided on my own to add an extra track, a recording.  I borrowed a microphone and added a tack of whistling into the project.
+Thus, the project was complete, but the song wasn’t particularly original.  I decided on my own to add an extra track, a recording.  I borrowed a microphone and added a track of whistling into the project.
 
 Recording was slightly awkward—I had to click not only the top Record button, but also the little red “R” next to the track icon.  I recorded my track from the beginning of the song, then used the techniques we learned earlier in the assignment to cut off the beginning and end of the track, leaving only the bit with sound.  It eventually looked like this.
 
